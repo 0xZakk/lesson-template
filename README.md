@@ -59,7 +59,7 @@ Demos are demonstrations, and developers should give their full attention to
 them. It's a great time for them to take notes about important concepts before
 applying them in an exercise.
 
-Demos correspond to the "I do" portion of scaffolding from consultant trainging.
+Demos correspond to the "I do" portion of scaffolding from consultant training.
 
 ## Exercise: Write an Exercise
 
