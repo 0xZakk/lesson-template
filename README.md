@@ -59,7 +59,7 @@ Demos are demonstrations, and developers should give their full attention to
 them. It's a great time for them to take notes about important concepts before
 applying them in an exercise.
 
-Demos correspond to the "I do" portion of scaffolding from consultant trainging.
+Demos correspond to the "I do" portion of scaffolding from consultant training.
 
 ## Exercise: Write an Exercise
 
@@ -68,7 +68,7 @@ This is their first chance to generalize concepts introduced. Exercises should
 be very focused, and flow natural into a lab.
 
 Exercises correspond to the "We do" portion of scaffolding from consultant
-trainging.
+training.
 
 ## Lab: Write a Lab
 
@@ -87,7 +87,7 @@ current estimate for the talk, and the importance of completing the lab while
 consultant support is available.
 
 Labs correspond to the "You do" portion of scaffolding from consultant
-trainging.
+training.
 
 ## Additional Resources
 
