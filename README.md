@@ -33,9 +33,10 @@ By the end of this, developers should be able to:
 
 ## Preparation
 
-1.  [Fork and clone](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone)
-    this repository.
+1.  Fork and clone this repository.
+ [FAQ](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone)
 1.  Create a new branch, `training`, for your work.
+1.  Checkout to the `training` branch.
 1.  Install dependencies with `npm install`.
 
 Better preparation instructions may be found as
@@ -62,9 +63,10 @@ applying them in an exercise.
 
 Demos correspond to the "I do" portion of scaffolding from consultant training.
 
-## Exercise: Write an Exercise
+## Code-Along: Write an Code-Along
 
-During exercises, developers should apply concepts covered in the previous demo.
+During the code-along, developers should apply concepts covered in the previous
+demo, led by the consultant.
 This is their first chance to generalize concepts introduced. Exercises should
 be very focused, and flow natural into a lab.
 
