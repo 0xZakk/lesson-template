@@ -63,9 +63,10 @@ applying them in an exercise.
 
 Demos correspond to the "I do" portion of scaffolding from consultant training.
 
-## Exercise: Write an Exercise
+## Code-Along: Write an Code-Along
 
-During exercises, developers should apply concepts covered in the previous demo.
+During the code-along, developers should apply concepts covered in the previous
+demo, led by the instructor. 
 This is their first chance to generalize concepts introduced. Exercises should
 be very focused, and flow natural into a lab.
 
