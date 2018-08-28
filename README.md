@@ -13,31 +13,31 @@ example [js-template](https://www.github.com/ga-wdi-boston/js-template).
 
 ## Prerequisites
 
--   Topics with which developers should be familiar with.
--   Prerequisites are "just-in-time", so if I have a prerequisite that mentions
-    Sass, I would **not** need to include CSS as a prerequisite.
--   [Links to previous materials](https://www.github.com/ga-wdi-boston/example)
-    are often useful.
+* Topics with which developers should be familiar with.
+* Prerequisites are "just-in-time", so if I have a prerequisite that mentions
+  Sass, I would **not** need to include CSS as a prerequisite.
+* [Links to previous materials](https://www.github.com/ga-wdi-boston/example)
+  are often useful.
 
 ## Objectives
 
 By the end of this, developers should be able to:
 
--   Write objectives that focus on demonstrating knowledge.
--   Write learning objectives that begin with an [imperative
-    verb](https://en.wikipedia.org/wiki/Imperative_mood).
--   Avoid objectives that start with "Use" or "Understand".
--   Rewrite objecives that begin with "Use" by inverting sentence structure.
--   End each objective with a period.
--   Write objectives on the whiteboard so they can be referenced during a talk.
+* Write objectives that focus on demonstrating knowledge.
+* Write learning objectives that begin with an [imperative
+  verb](https://en.wikipedia.org/wiki/Imperative_mood).
+* Avoid objectives that start with "Use" or "Understand".
+* Rewrite objecives that begin with "Use" by inverting sentence structure.
+* End each objective with a period.
+* Write objectives on the whiteboard so they can be referenced during a talk.
 
 ## Preparation
 
-1.  Fork and clone this repository.
- [FAQ](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone)
-1.  Create a new branch, `training`, for your work.
-1.  Checkout to the `training` branch.
-1.  Install dependencies with `npm install`.
+1. Fork and clone this repository.
+   [FAQ](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone)
+1. Create a new branch, `training`, for your work.
+1. Checkout to the `training` branch.
+1. Install dependencies with `npm install`.
 
 Better preparation instructions may be found as
 [snippets](https://github.com/ga-wdi-boston/instructors/tree/master/snippets).
@@ -94,16 +94,16 @@ training.
 
 ## Additional Resources
 
--   Any useful links should be included in the talk material where the link is
-    first referenced.
--   Additional links for further study or exploration are appropriate in this
-    section.
--   Links to important parts of documentation not covered during the talk, or
-    tools tangentially used but not part of the focus of the talk, are also
-    appropriate.
+* Any useful links should be included in the talk material where the link is
+  first referenced.
+* Additional links for further study or exploration are appropriate in this
+  section.
+* Links to important parts of documentation not covered during the talk, or
+  tools tangentially used but not part of the focus of the talk, are also
+  appropriate.
 
 ## [License](LICENSE)
 
-1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-1.  All software code is licensed under GNU GPLv3. For commercial use or
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+1. All software code is licensed under GNU GPLv3. For commercial use or
     alternative licensing, please contact legal@ga.co.
