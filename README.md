@@ -13,23 +13,23 @@ example [js-template](https://www.github.com/ga-wdi-boston/js-template).
 
 ## Prerequisites
 
-* Topics with which developers should be familiar with.
-* Prerequisites are "just-in-time", so if I have a prerequisite that mentions
+- Topics with which developers should be familiar with.
+- Prerequisites are "just-in-time", so if I have a prerequisite that mentions
   Sass, I would **not** need to include CSS as a prerequisite.
-* [Links to previous materials](https://www.github.com/ga-wdi-boston/example)
+- [Links to previous materials](https://www.github.com/ga-wdi-boston/example)
   are often useful.
 
 ## Objectives
 
 By the end of this, developers should be able to:
 
-* Write objectives that focus on demonstrating knowledge.
-* Write learning objectives that begin with an [imperative
-  verb](https://en.wikipedia.org/wiki/Imperative_mood).
-* Avoid objectives that start with "Use" or "Understand".
-* Rewrite objecives that begin with "Use" by inverting sentence structure.
-* End each objective with a period.
-* Write objectives on the whiteboard so they can be referenced during a talk.
+- Write objectives that focus on demonstrating knowledge.
+- Write learning objectives that begin with an
+  [imperative verb](https://en.wikipedia.org/wiki/Imperative_mood).
+- Avoid objectives that start with "Use" or "Understand".
+- Rewrite objecives that begin with "Use" by inverting sentence structure.
+- End each objective with a period.
+- Write objectives on the whiteboard so they can be referenced during a talk.
 
 ## Preparation
 
@@ -52,8 +52,8 @@ it's appropriate to put it here. Link to introductory articles or documentation.
 Motivate the next section.
 
 Demos, exercises, and labs are labelled as such, followed by a colon and a
-description of the activity starting with an [imperative
-verb](https://en.wikipedia.org/wiki/Imperative_mood).
+description of the activity starting with an
+[imperative verb](https://en.wikipedia.org/wiki/Imperative_mood).
 
 ## Demo: Write a Demo
 
@@ -66,9 +66,8 @@ Demos correspond to the "I do" portion of scaffolding from consultant training.
 ## Code-Along: Write an Code-Along
 
 During the code-along, developers should apply concepts covered in the previous
-demo, led by the consultant.
-This is their first chance to generalize concepts introduced. Exercises should
-be very focused, and flow natural into a lab.
+demo, led by the consultant. This is their first chance to generalize concepts
+introduced. Exercises should be very focused, and flow natural into a lab.
 
 Exercises correspond to the "We do" portion of scaffolding from consultant
 training.
@@ -89,16 +88,15 @@ consultant may give more time at her discretion based on current talk pace, the
 current estimate for the talk, and the importance of completing the lab while
 consultant support is available.
 
-Labs correspond to the "You do" portion of scaffolding from consultant
-training.
+Labs correspond to the "You do" portion of scaffolding from consultant training.
 
 ## Additional Resources
 
-* Any useful links should be included in the talk material where the link is
+- Any useful links should be included in the talk material where the link is
   first referenced.
-* Additional links for further study or exploration are appropriate in this
+- Additional links for further study or exploration are appropriate in this
   section.
-* Links to important parts of documentation not covered during the talk, or
+- Links to important parts of documentation not covered during the talk, or
   tools tangentially used but not part of the focus of the talk, are also
   appropriate.
 
@@ -106,4 +104,4 @@ training.
 
 1. All content is licensed under a CC­BY­NC­SA 4.0 license.
 1. All software code is licensed under GNU GPLv3. For commercial use or
-    alternative licensing, please contact legal@ga.co.
+   alternative licensing, please contact legal@ga.co.
